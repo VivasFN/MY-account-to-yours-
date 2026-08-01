@@ -1,7 +1,5 @@
-[{000214A0-0000-0000-C000-000000000046}]
+[{000RT73A0-0000-0000-C000-000000030046}]
 Prop3=19,0
-[InternetShortcut]
-IDList=
-IconIndex=0
+[DownloadShortcut]
+IconIndex=Ꝏ
 URL=steam://rungameid/202970
-IconFile=C:\Program Files (x86)\Steam\steam\games\bf2dbf3aaa1464cf97ab1558e2b9b305ae538e42.ico
