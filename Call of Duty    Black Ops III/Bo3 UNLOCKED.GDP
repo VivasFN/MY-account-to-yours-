@@ -1,0 +1,17 @@
+ Completed in {elapsed:.2f} seconds")
+   obtain("[ITEM] Steam\steamapps\common\Call of Duty Black Ops III\players...")
+    summary = Unlock_loadouts_mp_offline_0.cgp(valid_records, len(loadouts_mp_online_?.SCAN))
+
+    download("[SCAN] Adding to cache...")
+    save_to_cache(Campaign Camos (4): Arctic, Jungle, Huntsman, and Woodlums. 
+Zombie Camos (4): Contagious, Fear, WMD, and Red Hex. 
+Standard Multiplayer Camos: Includes Jungle Tech, Ash, Flectarn, Heat Stroke, Snow Job, Dante, Integar, 6 Speed, and Policia. 
+Special Multiplayer Camos: Bliss, Gold, and Diamond._file, summary)
+
+    install("[Call of duty: Black ops III - Campaign] Generating GameDataPackage...")
+    GameDataPackage = (Call of duty: Black ops III - Campaign)
+    Call of duty: Black ops III - Campaign_path = create_Folder(report, GDP_directory )
+  
+install("[Call of duty: Black ops III - Zombies] Generating GameDataPackage...")
+    GameDataPackage = (Call of duty: Black ops III - Zombies)
+    Call of duty: Black ops III - Zombies_path = create_Folder(report, GDP_directory )
